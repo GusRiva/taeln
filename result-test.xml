@@ -1,0 +1,22 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text ana="hc:IndexOfPersons">
+    <body>
+      <listPerson>
+        <person>
+          <names>
+            <prefName>Hausmann, Bernhard</prefName>
+            <otherName>Hausmann, Bernhard</otherName>
+          </names>
+          <birth>
+            <birthday>15.5.1784</birthday>
+            <birthplace>Hannover</birthplace>
+          </birth>
+          <occupation>Autor</occupation>
+          <occupation>Sammler</occupation>
+          <idno type="GND">116540044</idno>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
